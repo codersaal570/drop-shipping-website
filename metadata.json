@@ -1,0 +1,6 @@
+{
+  "name": "OmniDrop - Multi-Supplier Dropshipping Platform",
+  "description": "Multi-supplier dropshipping website for eBay, Amazon, and AliExpress with automated inventory syncing, auto-fulfillment, real-time price tracking, push notifications, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
